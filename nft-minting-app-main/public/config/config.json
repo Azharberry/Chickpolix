@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4044F738B031ba18CABD2e3a97AdC50b8e86Be9C",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x4044f738b031ba18cabd2e3a97adc50b8e86be9c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Chickpolix",
+  "SYMBOL": "CPLX",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/chickpolix",
+  "SHOW_BACKGROUND": true
+}
